@@ -1,0 +1,1 @@
+# easy way to search for items with keyword and price range on ebay. the method stores the results in a CSV file that orders products ascendingly. if you run a CSVLINKOPENER file, it will automatically open all the links in your main browser.
